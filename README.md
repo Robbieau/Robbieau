@@ -1,1 +1,1 @@
-This is an lementary beginning. 
+This is an elementary beginning. 
